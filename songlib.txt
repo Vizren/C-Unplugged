@@ -1,0 +1,33 @@
+1|Sweet Child O' Mine|Guns N' Roses|Appetite For Destruction|356
+2|It's My Life|Bon Jovi|Crush|224
+3|Summer Of '69|Bryan Adams|Reckless (30th Anniversary Edition)|216
+4|What I've Done|Linkin Park|Minutes to Midnight|205
+5|In the End|Linkin Park|Hybrid Theory (Bonus Edition)|216
+6|Boulevard of Broken Dreams|Green Day|Greatest Hits: God's Favorite Band|262
+7|American Idiot|Green Day|American Idiot|176
+8|Hotel California|Eagles|Hotel California (2013 Remaster)|391
+9|Don't Stop Me Now|Queen|Jazz (2011 Remaster)|209
+10|Livin' On A Prayer|Bon Jovi|Slippery When Wet|249
+11|You Give Love A Bad Name|Bon Jovi|Slippery When Wet|222
+12|Bohemian Rhapsody|Queen|A Night At The Opera (2011 Remaster)|354
+13|Mr. Brightside|The Killers|Hot Fuss|222
+14|Scar Tissue|Red Hot Chili Peppers|Californication (Deluxe Edition)|215
+15|Iris|The Goo Goo Dolls|Dizzy up the Girl|289
+16|Could Have Been Me|The Struts|Everybody Wants|187
+17|Heat of the Summer|Young the Giant|Mirror Master|211
+18|Mind Over Matter|Young the Giant|Mirrorball / Mind Over Matter|230
+19|Where'd All the Time Go?|Dr. Dog|Shame, Shame (Deluxe Edition)|234
+20|Cough Syrup|Young the Giant|Young the Giant (Special Edition)|249
+21|Disenchanted|My Chemical Romance|The Black Parade|295
+22|All These Things That I've Done|The Killers|Hot Fuss|301
+23|Cigarette Daydreams|Cage The Elephant|Melophobia|208
+24|Mary On A Cross|Ghost|[MESSAGE FROM THE CLERGY]|244
+25|Creep|Radiohead|Pablo Honey|238
+26|Californication|Red Hot Chili Peppers|Californication (Deluxe Edition)|329
+27|California Dreamin'|The Mamas & The Papas|If You Can Believe Your Eyes and Ears|162
+28|Wake Me Up When September Ends|Green Day|American Idiot|285
+29|Good Riddance (Time of Your Life)|Green Day|Nimrod|153
+30|Welcome to the Black Parade|My Chemical Romance|The Black Parade|311
+31|Supermassive Black Hole|Muse|Black Holes and Revelations|212
+32|Cold Cold Cold|Cage The Elephant|Tell Me I'm Pretty|214
+33|Don't Cry (Original)|Guns N' Roses|Use Your Illusion I|283
